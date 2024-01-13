@@ -17,13 +17,13 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["917560920774"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["917560920774"];     //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["917560920774"];  
-global.OwnerName = "KHADHER";
-global.BotName = "ELLIE";
-global.packname = "ELLIE";                             //Do not change.
-global.author = "By: KHADHER";                               //Do not change.
+global.Owner = :["2349156305896"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["2349156305896"];     //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["ASK FOR BUMBUM"];  
+global.OwnerName = "ASK FOR BUMBUM";
+global.BotName = "ASK FOR BUMBUM";
+global.packname = "ASK FOR BUMBUM";                             //Do not change.
+global.author = "By: BUMBUM";                               //Do not change.
 global.BotSourceCode = "https://github.com/khadherinc/ELLIE"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
 
@@ -33,7 +33,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["."];                                    //Default prefix here.
+global.prefa = ["null"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
